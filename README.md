@@ -9,7 +9,7 @@ Utilizando Bootstrap, nos piden crear una web a partir de un _sketch_ que nos pr
 ### Sketch, mockup y prototipo
 <a href="https://yquetecuentas.com/f5/Cities-of-the-World/sketch.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/Cities-of-the-World/sketch.jpg" alt="Sketch" width="150"></a>
 <a href="https://yquetecuentas.com/f5/Cities-of-the-World/mockup.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/Cities-of-the-World/mockup.jpg" alt="Mockup" width="150"></a>
-<a href="https://yquetecuentas.com/f5/Cities-of-the-World/prototipo.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/Cities-of-the-World/prototipo.jpg" alt="Prototipo" width="150"></a>
+<a href="https://yquetecuentas.com/f5/Cities-of-the-World/prototipo.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/Cities-of-the-World/prototipo.jpg" alt="Prototipo" width="150"></a>   
 Desarrollo de un _mockup_ y su prototipo a partir del _sketch_ proporcionado.
 
 ### Estructura HTML

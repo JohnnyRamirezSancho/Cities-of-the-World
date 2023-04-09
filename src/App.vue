@@ -1,12 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HeaderGlobal from './components/HeaderGlobal.vue';
+import CarouselHome from './components/CarouselHome.vue';
 </script>
 
 <template>
-  <header>
-      <HelloWorld msg="You did it!" />
-  </header>
+  <HeaderGlobal headOne="Cities of the World" />
+  <CarouselHome />
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
